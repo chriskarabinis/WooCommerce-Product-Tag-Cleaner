@@ -58,4 +58,4 @@ A WooCommerce plugin that bulk-removes product tags from selected products or fr
 
 ## License
 
-You can define the license you want to use for this plugin here (for example, GPL-2.0-or-later).
+MIT License. See [LICENSE](LICENSE).

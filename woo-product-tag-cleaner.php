@@ -4,6 +4,8 @@
  * Description: Adds tools in WooCommerce products list to remove product tags from selected products or from all products.
  * Version: 1.0.0
  * Author: Chris Karabinis
+ * License: MIT
+ * License URI: https://opensource.org/licenses/MIT
  */
 
 if (!defined('ABSPATH')) {
